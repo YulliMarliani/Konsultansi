@@ -1,3 +1,5 @@
 Rencana Aplikasi
 - Input 
+  Menambahkan nama 
+  menambahkan opd
 - Output
